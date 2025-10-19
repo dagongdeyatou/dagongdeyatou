@@ -25,9 +25,13 @@ Here are some ideas to get you started:
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dagongdeyatou) -->
 
 <!--![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dagongdeyatou) -->
+
+<!--![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=dagongdeyatou) -->
+
 <p align="center">
-![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=dagongdeyatou)
+  <img src="https://github-immortality.vercel.app/api?username=dagongdeyatou" alt="Typing SVG" />
 </p>
+
 
 <!--![GitHub Streak](https://streak-stats.demolab.com/?user=dagongdeyatou) -->
 
