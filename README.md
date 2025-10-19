@@ -32,6 +32,13 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
 </picture>
 
+<!-- profile-3d-contrib 3D 贡献图-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-gitblock.svg" />
+  <img src="/profile-night-rainbow.svg" />
+</picture>
+
 <!--## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=dagongdeyatou/dagongdeyatou&type=date&legend=top-left)](https://www.star-history.com/#dagongdeyatou/dagongdeyatou&type=date&legend=top-left)-->
