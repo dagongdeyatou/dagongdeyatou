@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=900&center=true&vCenter=true&width=700&lines=如+果+明+天+不+确+定+那+就+把+握+今+天" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E5%A6%82%E6%9E%9C%E6%98%8E%E5%A4%A9%E4%B8%8D%E7%A1%AE%E5%AE%9A+%E9%82%A3%E5%B0%B1%E6%8A%8A%E6%8F%A1%E4%BB%8A%E5%A4%A9" alt="Typing SVG" />
 </p>
 <!-- Hero GIF -->
 <p align="center">
