@@ -19,3 +19,21 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dagongdeyatou)
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dagongdeyatou)
+
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=dagongdeyatou)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=dagongdeyatou)
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=happy+every+day)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=dagongdeyatou/dagongdeyatou&type=date&legend=top-left)](https://www.star-history.com/#dagongdeyatou/dagongdeyatou&type=date&legend=top-left)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+</picture>
+
