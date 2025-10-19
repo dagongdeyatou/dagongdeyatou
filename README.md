@@ -14,21 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dagongdeyatou)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dagongdeyatou) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dagongdeyatou)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dagongdeyatou) -->
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dagongdeyatou)
+<!--![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dagongdeyatou) -->
 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=dagongdeyatou)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=dagongdeyatou)
+<!--![GitHub Streak](https://streak-stats.demolab.com/?user=dagongdeyatou) -->
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=happy+every+day)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=If+tomorrow+is+uncertain+,+seize+today.;明+日+が+不+確+か+な+ら+、+今+日+を+大+切+に+し+よ+う)
 
-## Star History
+<!--## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=dagongdeyatou/dagongdeyatou&type=date&legend=top-left)](https://www.star-history.com/#dagongdeyatou/dagongdeyatou&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=dagongdeyatou/dagongdeyatou&type=date&legend=top-left)](https://www.star-history.com/#dagongdeyatou/dagongdeyatou&type=date&legend=top-left)-->
 
 
 <picture>
