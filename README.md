@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=%E5%A6%82%E6%9E%9C%E6%98%8E%E5%A4%A9%E4%B8%8D%E7%A1%AE%E5%AE%9A+%E9%82%A3%E5%B0%B1%E6%8A%8A%E6%8F%A1%E4%BB%8A%E5%A4%A9" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=%E5%A6%82%E6%9E%9C%E6%98%8E%E5%A4%A9%E4%B8%8D%E7%A1%AE%E5%AE%9A+%E9%82%A3%E5%B0%B1%E6%8A%8A%E6%8F%A1%E4%BB%8A%E5%A4%A9;%E4%B8%8D%E7%9F%A5%E9%81%93%E5%93%AA%E9%87%8C%E6%98%AF%E8%BF%9C%E6%96%B9+%E4%BD%86%E6%88%91%E7%9F%A5%E9%81%93+%E5%8E%9F%E5%9C%B0%E6%B2%A1%E6%9C%89" alt="Typing SVG" />
 </p>
 <!-- Hero GIF -->
 <p align="center">
